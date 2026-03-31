@@ -1,6 +1,8 @@
 # Mr.Book
 List of books wanted to collect &amp; read
 
+instagram recommendation for books [wealthandbooks](https://www.instagram.com/wealthandbooks/?g=5)
+
 <table>
     <tr>
         <td>Index</td>
